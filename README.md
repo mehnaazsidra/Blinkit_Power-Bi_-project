@@ -9,7 +9,7 @@ The objective of the Blinkit e-commerce sales project is to build an interactive
 
 ## DASHBOARD
 
-
+- <a href="https://github.com/mehnaazsidra/Blinkit_Power-Bi_-project/blob/main/blinkit.pbix">Dashboard</a>
 
 ## 1. Data Collection
 - Gather data from relevant sources such as Blinkit’s transactional database, sales reports, or API integrations.
