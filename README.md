@@ -5,7 +5,7 @@ The objective of the Blinkit e-commerce sales project is to build an interactive
 
 ## DATA
 
-
+- <a href="https://github.com/mehnaazsidra/Blinkit_Power-Bi_-project/tree/main">Dataset</a>
 
 ## DASHBOARD
 
@@ -91,6 +91,8 @@ After cleaning and preparing the data, it’s important to ensure ongoing data u
 
 
 ## DASHBOARD
+
+![Screenshot 2024-11-23 183805](https://github.com/user-attachments/assets/eb409677-415e-471b-83aa-18eef34fc17e)
 
 
 ## Conclusions:
